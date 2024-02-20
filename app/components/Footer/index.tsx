@@ -23,7 +23,7 @@ const footer = () => {
         <div className="flex justify-center gap-2 pt-20 pb-20">
           <Link
             className="footer-icons csicon"
-            href="https://youtube.com"
+            href="https://youtube.com/@albisonuz"
             target="_blank"
           >
             <Image src={youtube} alt="instagram" width={35} height={35} />
