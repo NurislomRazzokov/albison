@@ -109,11 +109,11 @@ export const Responsive = ({ slide }: any) => {
             </h2> */}
             {/* <p className="group-hover:text-white text-2xl font-bold">{sl.user}</p> */}
             <div className="flex flex-col gap-2 h-full">
-              <div className="flex flex-col justify-between">
+              <div className="flex flex-col justify-between m-auto">
               {sl?.features?.map((feature: string, index: any) => (
                 <h3
                   key={index}
-                  className="text-sm font-medium text-darkgrey group-hover:text-offwhite"
+                  className="text-sm text-left font-medium text-darkgrey group-hover:text-offwhite"
                 >
                   {feature}
                 </h3>

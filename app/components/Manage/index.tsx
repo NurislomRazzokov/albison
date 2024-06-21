@@ -9,14 +9,28 @@ import bootcamp from '@/public/images/bootcamp.webp'
 import itkids from '@/public/images/IT_Robotics(1).webp'
 const names = [
 	{
+		heading: "IT/Robotics",
+		// price: 300,
+		user: "Oylik",
+		category: "monthly",
+		features: [
+			"Yosh 11-17 ✔️",
+			"Davomiyligi 6 oy, haftada 5 kun ✔️",
+			"Dasturlash va ingliz tili ✔️",
+			
+		],
+		link: "https://t.me/albisonbot",
+		image:itkids
+	},
+	{
 		heading: "IT Girls",
 		// price: 100,
 		user: "3 0ylik",
 		// category: "monthly",
 		features: [
-			"3 oylik kurs + amaliyot",
-			"Bitiruvchilarga ish taklif qilish",
-			"Jamoa uchun bepul ingliz tili kurslari ",
+			"Yosh 16-26 ✔️",
+			"IELTS sertifikati 6+ ✔️",
+			"Shaxsiy noutbuk ✔️",
 			
 		],
 		link: "https://t.me/albisonbot",	
@@ -28,27 +42,13 @@ const names = [
 		user: "5 oylik",
 		category: "monthly",
 		features: [
-			"3 oylik kurs + amaliyot",
-			"Bitiruvchilarga ish taklif qilish",
-			"Jamoa uchun bepul ingliz tili kurslari ",
+			"Yosh 17-33 ✔️",
+			"Shaxsiy noutbuk ✔️",
+			"Davomiyligi 3 oy, haftada 5 kun ✔️",
 			
 		],
 		link: "https://t.me/albisonbot",
 		image:bootcamp
-	},
-	{
-		heading: "IT/Robotics",
-		// price: 300,
-		user: "Oylik",
-		category: "monthly",
-		features: [
-			"3 oylik kurs + amaliyot",
-			"Bitiruvchilarga ish taklif qilish",
-			"Jamoa uchun bepul ingliz tili kurslari ",
-			
-		],
-		link: "https://t.me/albisonbot",
-		image:itkids
 	},
 ];
 
