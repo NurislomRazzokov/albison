@@ -35,7 +35,7 @@ export default function RootLayout({
 					/>
 					<link rel="icon" href="/logo.svg" />
 				</head>
-				<body>
+				<body className="bg-white">
 					<Navbarin />
 					{children}
 					<Footer />
