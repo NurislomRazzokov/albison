@@ -30,7 +30,7 @@ const data = [
     name: "Ibrohim",
     surname: "Fattohov",
     imgSrc: Ibrohim,
-    in: "https://www.linkedin.com/in/ibrohim-fattohov/",
+    in: "https://www.linkedin.com/in/ibrohimfattohov/",
   },
   {
     profession: "#developer",
